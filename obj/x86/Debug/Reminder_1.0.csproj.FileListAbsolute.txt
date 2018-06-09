@@ -1,0 +1,14 @@
+G:\vb new\Reminder_1.0\Reminder_1.0\bin\Debug\Reminder_1.0.exe
+G:\vb new\Reminder_1.0\Reminder_1.0\bin\Debug\Reminder_1.0.pdb
+G:\vb new\Reminder_1.0\Reminder_1.0\bin\Debug\MetroFramework.dll
+G:\vb new\Reminder_1.0\Reminder_1.0\bin\Debug\MetroFramework.Fonts.dll
+G:\vb new\Reminder_1.0\Reminder_1.0\obj\x86\Debug\Reminder_1.0.csprojResolveAssemblyReference.cache
+G:\vb new\Reminder_1.0\Reminder_1.0\obj\x86\Debug\Reminder_1._0.Reminder.resources
+G:\vb new\Reminder_1.0\Reminder_1.0\obj\x86\Debug\Reminder_1._0.Properties.Resources.resources
+G:\vb new\Reminder_1.0\Reminder_1.0\obj\x86\Debug\Reminder_1.0.csproj.GenerateResource.Cache
+G:\vb new\Reminder_1.0\Reminder_1.0\obj\x86\Debug\Reminder_1.0.exe
+G:\vb new\Reminder_1.0\Reminder_1.0\obj\x86\Debug\Reminder_1.0.pdb
+G:\vb new\Reminder_1.0\Reminder_1.0\obj\x86\Debug\Reminder_1._0.Form2.resources
+G:\vb new\Reminder_1.0\Reminder_1.0\bin\Debug\reminder_new.mdf
+G:\vb new\Reminder_1.0\Reminder_1.0\bin\Debug\reminder_new_log.ldf
+G:\vb new\Reminder_1.0\Reminder_1.0\bin\Debug\Reminder_1.0.exe.config
